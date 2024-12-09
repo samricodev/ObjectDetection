@@ -50,23 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD1xTXstH6RaSMlhg-vWqRswley2UsZo_Y',
-    appId: '1:146215723665:web:1cff4d96bca5c3f639d530',
-    messagingSenderId: '146215723665',
-    projectId: 'object-detection-4ff08',
-    authDomain: 'object-detection-4ff08.firebaseapp.com',
-    databaseURL: 'https://object-detection-4ff08-default-rtdb.firebaseio.com',
-    storageBucket: 'object-detection-4ff08.appspot.com',
-    measurementId: 'G-E84RHRENYV',
+    apiKey: 'AIzaSyCIZEKDFhpcB4rcV-wwkPJn8xoN-1f9ITM',
+    appId: '1:511109783779:web:15874801284c5d94e1a5d6',
+    messagingSenderId: '511109783779',
+    projectId: 'detector-esp32cam',
+    authDomain: 'detector-esp32cam.firebaseapp.com',
+    storageBucket: 'detector-esp32cam.firebasestorage.app',
+    measurementId: 'G-ZX8F4LWETC',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA7_WxcDbf3W1JM1PjvSf4X5WwoJssWmbg',
-    appId: '1:146215723665:android:c5fe04ed295ac5fe39d530',
-    messagingSenderId: '146215723665',
-    projectId: 'object-detection-4ff08',
-    databaseURL: 'https://object-detection-4ff08-default-rtdb.firebaseio.com',
-    storageBucket: 'object-detection-4ff08.appspot.com',
+    apiKey: 'AIzaSyA-0yhQ9GG_WS8sHCFfH5QRLC14Uq6D_D0',
+    appId: '1:511109783779:android:9085d64d9b087e2de1a5d6',
+    messagingSenderId: '511109783779',
+    projectId: 'detector-esp32cam',
+    storageBucket: 'detector-esp32cam.firebasestorage.app',
   );
 
 }

@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _loadData() {
     DatabaseReference starCountRef =
-        FirebaseDatabase.instance.ref('detected_objects');
+        FirebaseDatabase.instance.ref('detections');
     starCountRef.onValue.listen((DatabaseEvent event) {
       final data = event.snapshot.value;
       final List<Map<dynamic, dynamic>> objects = [];

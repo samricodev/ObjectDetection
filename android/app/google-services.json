@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "146215723665",
-    "firebase_url": "https://object-detection-4ff08-default-rtdb.firebaseio.com",
-    "project_id": "object-detection-4ff08",
-    "storage_bucket": "object-detection-4ff08.appspot.com"
+    "project_number": "511109783779",
+    "project_id": "detector-esp32cam",
+    "storage_bucket": "detector-esp32cam.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:146215723665:android:c5fe04ed295ac5fe39d530",
+        "mobilesdk_app_id": "1:511109783779:android:9085d64d9b087e2de1a5d6",
         "android_client_info": {
           "package_name": "com.example.myapp"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA7_WxcDbf3W1JM1PjvSf4X5WwoJssWmbg"
+          "current_key": "AIzaSyA-0yhQ9GG_WS8sHCFfH5QRLC14Uq6D_D0"
         }
       ],
       "services": {
